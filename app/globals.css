@@ -1,0 +1,27 @@
+@import 'tailwindcss';
+
+@layer base {
+  body {
+    @apply bg-[#1A1A1A] text-white;
+  }
+
+  a {
+    @apply underline;
+  }
+
+  a:hover {
+    @apply opacity-70;
+  }
+
+  h1 {
+    @apply text-2xl font-bold;
+  }
+
+  h2 {
+    @apply text-xl font-bold;
+  }
+
+  p {
+    @apply leading-relaxed;
+  }
+}
