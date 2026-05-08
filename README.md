@@ -1,61 +1,101 @@
-# Rahman Karim Portfolio
+# 👋 Hi, I'm Rahman Karim
 
-A personal portfolio built with Next.js, React, TypeScript, and Tailwind CSS. It highlights Rahman Karim's background, work experience, interests, writing, certificates, and selected projects.
+🚀 MERN Stack Developer | 📊 Data Science Student | 🌍 Tech Explorer
 
-## Tech Stack
+---
 
-- Next.js 16
-- React 19
-- TypeScript
-- Tailwind CSS
-- Radix UI
-- MDX
+## 🧑‍💻 About Me
 
-## Getting Started
+I am **Rahman Karim**, a passionate Computer Science student at **COMSATS University Lahore**, focused on building modern, scalable, and user-friendly web applications.
 
-Install dependencies:
+I specialize in the **MERN stack (MongoDB, Express, React, Node.js)** and enjoy turning ideas into real-world digital products.
 
-```bash
-npm install
-```
+Beyond coding, I enjoy **hiking ⛰️, football ⚽, chess ♟️, and exploring new technologies**.
 
-Run the development server:
+---
 
-```bash
-npm run dev
-```
+## 💼 What I Do
 
-Build for production:
+* 🌐 Full Stack Web Development (MERN)
+* 📱 React & React Native Apps
+* 🔐 Authentication Systems & APIs
+* 📊 Data Science & Analytics (learning phase)
+* ⚙️ Backend Development & Database Design
 
-```bash
-npm run build
-```
+---
 
-Start the production server:
+## 🚀 Tech Stack
 
-```bash
-npm run start
-```
+**Frontend:**
 
-Run linting:
+* React.js
+* HTML, CSS, JavaScript
+* Bootstrap / MUI
 
-```bash
-npm run lint
-```
+**Backend:**
 
-## Pages
+* Node.js
+* Express.js
 
-- `/` - Home
-- `/about` - About
-- `/projects` - Projects
-- `/interests` - Interests and activities
-- `/writing` - Writing and articles
-- `/certificates` - Certificates
-- `/crogics` - Crogics experience
-- `/indeset` - Indeset experience
+**Database:**
 
-## Notes
+* MongoDB
 
-- Static assets live in the `public/` folder and are served from the site root.
-- MDX content is stored in `content/`.
-- The site uses App Router pages in the `app/` directory.
+**Tools & Platforms:**
+
+* Git & GitHub
+* VS Code
+* Postman
+* GitHub Actions (CI/CD learning)
+
+---
+
+## 📂 Featured Projects
+
+Here are some of my highlighted works:
+
+* 🛍️ MERN E-Commerce App
+* 📊 Admin Dashboard (React + Charts)
+* 🔐 Authentication System (JWT)
+* 📱 React Native Fashion Swipe App (Tinder-style UI)
+* 🎮 Tic Tac Toe Game in React
+
+👉 More projects available on my GitHub repositories.
+
+---
+
+## 🏆 Experience
+
+* 💼 MERN Stack Developer Intern at Crogics Technologies
+
+  * Built full-stack applications
+  * Worked on frontend & backend integration
+  * Managed databases and APIs
+
+---
+
+## 🎯 Goals
+
+* Become a professional Full Stack Engineer
+* Build impactful real-world products
+* Contribute to open-source projects
+* Grow in AI & Data Science field
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: (add your link here)
+* 🐙 GitHub: [https://github.com/Rahmankarim](https://github.com/Rahmankarim)
+* 📧 Email: (add your email)
+* 📸 Instagram: (add your link)
+
+---
+
+## ⚡ Fun Fact
+
+I believe in learning by building. Every project I create teaches me something new.
+
+---
+
+⭐ *If you like my work, consider following me on GitHub!*
