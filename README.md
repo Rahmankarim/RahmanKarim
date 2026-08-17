@@ -1,4 +1,4 @@
-# Rahman Karim — Portfolio
+# Rahman Karim
 
 A modern personal portfolio built with Next.js and Tailwind CSS showcasing projects, skills, and contact information for Rahman Karim.
 
