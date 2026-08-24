@@ -6,17 +6,48 @@
 
 <h1>Hey, I'm Rahman 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+with+MERN+%2B+Next.js+%2B+TypeScript;Founder+%26+CEO+at+Indeset+Pvt+Ltd;AI+Intern+%40+FlyRank+AI;Shipping+AI-powered+products+from+Lahore" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Lahore%2C+Pakistan;Founder+%26+CEO+%40+Indeset+Pvt+Ltd;AI+Intern+%40+FlyRank+AI;MERN+%2B+Next.js+%2B+TypeScript+%2B+Python;Shipping+AI-powered+products+daily" alt="Typing SVG" />
+
+> **README loading a little slow? Grab a ☕ while the servers warm up.**
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Lahore-Pakistan-A78BFA?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Founder%20%26%20CEO-Indeset-302B63?style=for-the-badge&logo=rocket&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/AI%20Intern-FlyRank%20AI-0f0c29?style=for-the-badge&logo=openai&logoColor=white"/></a>
+### **Having fun with this stack 👨‍💻**
+
+<div>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</div>
+<br/>
+<div>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/prisma%20-%232D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+<br/>
+<div>
+<img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/groq%20-%23F55036.svg?&style=for-the-badge&logo=lightning&logoColor=white"/>
+<img src="https://img.shields.io/badge/claude%20api%20-%23D4A27F.svg?&style=for-the-badge&logo=anthropic&logoColor=white"/>
+</div>
+<br/>
+
+### and more >w<
+
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postman/postman.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+
+<br/><br/>
 
 </div>
-
-<br/>
 
 ## ⚡ About Me
 
@@ -28,30 +59,10 @@ const rahman = {
   education: "BS Software Engineering, COMSATS University Islamabad (Lahore)",
   background: "18 months at Crogics Technologies — Frontend Intern → Full Stack Dev",
   roots: "Hunza 🏔️ → Lahore 🏙️",
-  stack: ["MERN", "Next.js", "TypeScript", "Python"],
-  focus: "AI API integrations, scalable web platforms, clean architecture"
+  currentlyDrinking: "☕ x∞",
+  status: "shipping something new almost every week"
 };
 ```
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Groq](https://img.shields.io/badge/-Groq-F55036?style=for-the-badge&logo=lightning&logoColor=white)
-![Anthropic](https://img.shields.io/badge/-Claude%20API-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
-
-</div>
 
 <br/>
 
@@ -106,39 +117,34 @@ Currently shipping products as Founder & CEO of Indeset, alongside ML work as an
 
 <br/>
 
+<div align="center">
+
 ## 🏙️ 3D Contribution Skyline
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-<br/><br/>
 <img width="90%" src="https://profile-3d-contrib.vercel.app/profile-night-rainbow/?username=YOUR_USERNAME" />
-</div>
 
-<br/>
+<br/><br/>
 
 ## 📈 GitHub Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a78bfa&title_color=a78bfa&text_color=ffffff"/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0f0c29"/>
-</div>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=1a1a1a&ring=a78bfa&fire=a78bfa&hide_border=true"/>
 
-<div align="center">
-<img width="220" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=1a1a1a&color=a78bfa&line=a78bfa&point=ffffff"/>
+
+<br/><br/>
+
+### 👀 Can you break this counter?
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME)
 
 <br/>
-
-<div align="center">
 
 ### 📫 Let's Connect
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
