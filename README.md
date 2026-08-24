@@ -1,68 +1,167 @@
-# Hi, I'm Rahman Karim 👋
+<div align="center">
 
-Full Stack Developer from Hunza, Gilgit-Baltistan, based in Lahore, Pakistan. I build AI-powered web platforms end to end — from data model to deployed product.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Rahman%20Karim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Founder&descAlignY=55&descSize=20" width="100%"/>
 
-- 🚀 Founder & CEO, **Indeset Pvt Ltd**
-- 🤖 AI Intern at **FlyRank AI**, working on machine learning projects
-- 🎓 CS (Software Engineering) graduate, COMSATS University Islamabad — Lahore Campus
-- 🌐 Portfolio: [rahman-karim-dev.vercel.app](https://rahman-karim-dev.vercel.app/)
+<a href="https://rahman-karim-dev.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+platforms;MERN+%2B+Next.js+%2B+TypeScript+%2B+Python;Founder+%40+Indeset+Pvt+Ltd;AI+Intern+%40+FlyRank+AI" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+[![Portfolio](https://img.shields.io/badge/Portfolio-rahman--karim--dev.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://rahman-karim-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahmankarim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahmankarim)
+[![Email](https://img.shields.io/badge/Email-rahmankarim2468%40gmaiil.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmankarim2468@gmaiil.com)
+
+</div>
+
+<br/>
+
+## ⚡ About Me
+
+```yaml
+name: Rahman Karim
+origin: Karimabad, Hunza, Gilgit-Baltistan 🏔️
+based_in: Lahore, Pakistan
+role: Full Stack Developer & Founder
+current:
+  - 🚀 Founder & CEO @ Indeset Pvt Ltd
+  - 🤖 AI Intern @ FlyRank AI — machine learning projects
+education: CS (Software Engineering), COMSATS University Islamabad — Lahore Campus
+focus: AI-integrated full-stack products, from data model to deployed UI
+```
+
+<br/>
+
+## 🧰 Tech Arsenal
+
+<div align="center">
 
 **Languages & Frameworks**
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-**Data & Infra**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Data, Auth & Infra**
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
 
-**Other tools I work with:** REST API design, JWT/OAuth, CI/CD, Socket.io, Stripe Connect, Groq API, Claude/Anthropic API integrations
+**AI & Tooling**
+<br/>
+<img src="https://img.shields.io/badge/Claude%2FAnthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
----
+</div>
 
-### 🌟 Featured Projects
+<br/>
 
-**[TrailMate](https://github.com/rahmankarim)** — AI-powered adventure tourism platform
-Built with Next.js, MongoDB, Socket.io, and the Groq API. Features companion matching via a custom TravelIntent schema, real-time chat, a guide badge system, and a gamified leaderboard with role-based access for travelers, guides, and admins. My Final Year Project, supervised by Ms. Humera Faisal.
+## 🌟 Featured Projects
 
-**[Draaft](https://github.com/rahmankarim)** — Design licensing marketplace
-A MERN platform with Stripe Connect payouts, atomic Prisma transactions, and JWT auth. Supports dual licensing (non-exclusive/exclusive) with a 5% platform commission and 95% going straight to designers — with a race-condition-safe checkout flow.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**GradeOS** — AI-powered university grading platform
-A Next.js 14 full-stack build using Mongoose, NextAuth, and Claude AI integration to help automate and streamline grading workflows.
+### 🧭 [TrailMate](https://github.com/rahmankarim)
+**AI-powered adventure tourism platform**
 
----
+Next.js · MongoDB · Socket.io · Groq API
 
-### 📜 Certifications
+- 🤝 Companion matching via a custom `TravelIntent` schema
+- 💬 Real-time chat with Socket.io room-based architecture
+- 🏅 Guide badge system + gamified leaderboard
+- 🔐 Role-based access for Travelers, Guides & Admins
+- 🎓 Final Year Project, supervised by Ms. Humera Faisal
 
-- Anthropic — Claude 101, AI Fluency Framework & Foundations
-- Harvard/edX — CS50
-- IBM & Meta certifications
-- Generative AI Application Developer Certificate — ULEFUSA/HEC
-- HEC C3 Generative AI Developer Program (HEC Pakistan & Pak Angels) — **Top Performer, 91.54%**
-- HackerRank — JavaScript (Intermediate)
+</td>
+<td width="50%" valign="top">
 
----
+### 🎨 [Draaft](https://github.com/rahmankarim)
+**Design licensing marketplace**
 
-### 📈 GitHub Stats
+MERN · Stripe Connect · Prisma · JWT
 
-![Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmankarim&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmankarim&layout=compact)
+- ⚖️ Dual licensing model — non-exclusive & exclusive
+- 💳 Stripe Connect payouts — 95% to designers, 5% platform fee
+- 🔒 Race-condition-safe checkout via atomic Prisma transactions
+- 🏗️ Full requirements doc built from business model to spec
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📫 Let's Connect
+### 🎓 GradeOS
+**AI-powered university grading platform**
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://rahman-karim-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
+Next.js 14 · Mongoose · NextAuth · Claude AI
 
-*Open to Full Stack and AI/ML engineering roles — always happy to talk shop about MERN, Next.js, or building AI features into real products.*
+- 🧠 Claude AI integration for automated grading workflows
+- 🔑 Full-stack auth with NextAuth
+- 📊 Structured grading data models via Mongoose
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 More on my portfolio
+**Origiganics · Goodwill Disability Movement · more**
+
+Next.js · TypeScript · Tailwind · Node.js
+
+- 📈 Client sites shipped with measurable UX/performance gains
+- 🌐 See the full case studies at [my portfolio →](https://rahman-karim-dev.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuer |
+|---|---|
+| Claude 101 · AI Fluency Framework & Foundations | Anthropic |
+| CS50 | Harvard / edX |
+| Generative AI Application Developer Certificate | ULEFUSA / HEC |
+| **C3 Generative AI Developer Program — Top Performer (91.54%)** | HEC Pakistan & Pak Angels |
+| Professional Certificates | IBM · Meta |
+| JavaScript (Intermediate) | HackerRank |
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahmankarim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmankarim&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmankarim&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's build something
+
+*Open to Full Stack and AI/ML engineering roles — always up for a conversation about MERN, Next.js, or shipping AI features into real products.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
