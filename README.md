@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Hi,%20I'm%20Rahman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Founder%20@%20Indeset&descAlignY=58&descSize=18" width="100%"/>
+<img src="./skeleton.gif" width="280"/>
+
+# Hi, I'm Rahman
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+full-stack+products+end+to+end;MERN+%2B+Next.js+%2B+TypeScript+%2B+Python;Turning+AI+into+real%2C+usable+products" alt="Typing SVG" />
 
