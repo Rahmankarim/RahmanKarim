@@ -1,84 +1,125 @@
-<div align="center">
+# Hi 👋, I'm Rahman Karim
 
-### 👋 Hey, I'm Rahman — from Hunza to the cloud ☁️🏔️
+### Full-Stack Developer | AI Enthusiast | Computer Science Graduate
 
-**Building things at the intersection of web dev and AI, one commit at a time.**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+%40+Indeset;AI+Intern+%40+FlyRank+AI;Full+Stack+Developer+(MERN+%2F+Next.js);Turning+coffee+%E2%98%95+into+code" alt="Typing SVG" />
-
-</div>
-
----
-
-### 🧭 A little about me
-
-- 🚀 Founder & CEO of **Indeset Pvt Ltd**
-- 🤖 AI Intern at **FlyRank AI**, elbow-deep in machine learning projects
-- 🎓 CS (Software Engineering) grad from **COMSATS University Islamabad**, Lahore Campus
-- 🏗️ Cut my teeth over ~18 months at **Crogics Technologies** — went in as a Frontend Intern, came out a Full Stack Dev
-- 🏔️ Originally from **Hunza**, currently based in **Lahore, Pakistan**
-- 🧠 Currently obsessed with wiring AI APIs into everyday products
-
----
-
-### 🛠️ Stack I actually ship with
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Claude](https://img.shields.io/badge/claude%20api-%23D97757.svg?&style=for-the-badge&logo=anthropic&logoColor=white)
-
-</div>
-
-### 🧩 and more, because one stack is never enough >w<
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
----
-
-### 🏗️ Projects I'm proud of
-
-| Project | What it is |
-|---|---|
-| 🎨 **Draaft** | Design licensing marketplace (MERN + Stripe Connect). Dual-license model, atomic DB transactions to kill race conditions, 95/5 payout split via Stripe Connect. |
-| 🥾 **TrailMate** | AI-powered adventure tourism platform (Next.js + MongoDB + Socket.io + Groq). Companion matching, real-time chat, guide badges, gamified leaderboard. My Final Year Project. |
-| 📝 **GradeOS** | AI-powered university grading platform (Next.js 14 + Mongoose + NextAuth + Claude AI). |
-
----
-
-### 📜 Certifications
-
-`Anthropic — Claude 101 & AI Fluency Framework` · `Harvard/edX CS50` · `IBM` · `Meta` · `HEC C3 Generative AI Developer — Top Performer (91.54%)` · `HackerRank JavaScript (Intermediate)`
-
----
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
-
-### 🔥 Can you break this counter?
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=YOUR_GITHUB_USERNAME)
+I enjoy building **modern web applications**, exploring **Artificial Intelligence**, and turning ideas into useful digital products.
 
 <br/>
 
-*From the mountains of Hunza to shipping code in Lahore — always building something.*
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+  </a>
+</p>
 
-</div>
+---
+
+## 👨‍💻 About Me
+
+* 💻 Interested in **Full-Stack Web Development & AI**
+* 🌱 Currently exploring **AI, LLMs, RAG and modern web technologies**
+* 🚀 Building projects with **React, Next.js, Node.js and Python**
+* 📍 Based in Pakistan
+* 💬 Ask me about **JavaScript, React, Node.js, APIs and AI integration**
+* 📫 Reach me at **[your-email@example.com](mailto:your-email@example.com)**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma" />
+</p>
+
+### 🤖 AI & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode,vercel" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏔️ Discover Gilgit-Baltistan
+
+A platform designed to showcase the beauty, destinations, and culture of Gilgit-Baltistan.
+
+**Tech:** React • Node.js • Express • MongoDB
+
+---
+
+### 🛍️ TrendHive
+
+A modern swipe-based clothing discovery and shopping application.
+
+**Tech:** React • JavaScript • APIs
+
+---
+
+### 📝 ThoughtNest
+
+A full-stack blog application with authentication and content management.
+
+**Tech:** Express • TypeScript • MongoDB • jQuery
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Always learning, always building, always improving."</i>
+</p>
+
+<p align="center">
+  ⭐ <b>Feel free to explore my repositories and connect with me!</b>
+</p>
