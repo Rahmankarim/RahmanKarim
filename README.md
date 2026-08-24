@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rahman&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Founder%20%40%20Indeset%20%7C%20AI%20Explorer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=10&section=header"/>
+
+<img width="260" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" />
+
+<h1>Hey, I'm Rahman 👋</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+with+MERN+%2B+Next.js+%2B+TypeScript;Founder+%26+CEO+at+Indeset+Pvt+Ltd;AI+Intern+%40+FlyRank+AI;Shipping+AI-powered+products+from+Lahore" alt="Typing SVG" />
 
@@ -102,6 +106,16 @@ Currently shipping products as Founder & CEO of Indeset, alongside ML work as an
 
 <br/>
 
+## 🏙️ 3D Contribution Skyline
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<br/><br/>
+<img width="90%" src="https://profile-3d-contrib.vercel.app/profile-night-rainbow/?username=YOUR_USERNAME" />
+</div>
+
+<br/>
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -111,6 +125,10 @@ Currently shipping products as Founder & CEO of Indeset, alongside ML work as an
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0f0c29"/>
+</div>
+
+<div align="center">
+<img width="220" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 </div>
 
 <br/>
