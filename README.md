@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="terminal" width="500">
-
 ### 👋 Hey, I'm Rahman — from Hunza to the cloud ☁️🏔️
 
 **Building things at the intersection of web dev and AI, one commit at a time.**
