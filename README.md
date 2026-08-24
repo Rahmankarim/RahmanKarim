@@ -8,9 +8,15 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rahman--karim--dev.vercel.app-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://rahman-karim-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahmankarim-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahmankarim)
-[![Email](https://img.shields.io/badge/Email-rahmankarim2468%40gmaiil.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmankarim2468@gmaiil.com)
+<img src="https://komarev.com/ghpvc/?username=rahmankarim&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/rahmankarim?label=Followers&style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" alt="followers"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/rahmankarim" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40"/></a>&nbsp;&nbsp;
+<a href="https://github.com/rahmankarim" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="40"/></a>&nbsp;&nbsp;
+<a href="mailto:rahmankarim2468@gmaiil.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40"/></a>&nbsp;&nbsp;
+<a href="https://rahman-karim-dev.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png" width="40"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,50:A855F7,100:3B82F6&height=3&width=1000" width="100%"/>
 
@@ -18,31 +24,30 @@
 
 <br/>
 
-## ⚡ About Me
-
-<div align="center">
 <table>
 <tr>
-<td>
+<td width="60%" valign="top">
 
-```yaml
-name: Rahman Karim
-origin: Karimabad, Hunza, Gilgit-Baltistan 🏔️
-based_in: Lahore, Pakistan
-role: Full Stack Developer & Founder
-current:
-  - 🚀 Founder & CEO @ Indeset Pvt Ltd
-  - 🤖 AI Intern @ FlyRank AI — machine learning projects
-education: CS (Software Engineering), COMSATS University Islamabad — Lahore Campus
-focus: AI-integrated full-stack products, from data model to deployed UI
-```
+## ⚡ About Me
+
+- 🚀 Founder & CEO @ **Indeset Pvt Ltd**
+- 🤖 AI Intern @ **FlyRank AI** — working on machine learning projects
+- 🌱 Currently building AI-integrated full-stack products, from data model to deployed UI
+- 🎓 CS (Software Engineering) grad, COMSATS University Islamabad — Lahore Campus
+- 🏔️ From Karimabad, Hunza, Gilgit-Baltistan — based in Lahore, Pakistan
+- 💬 Ask me about **MERN, Next.js, and shipping AI features into real products**
+- 📄 See my full case studies on my **[Portfolio →](https://rahman-karim-dev.vercel.app/)**
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
 </td>
 </tr>
 </table>
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:A855F7,100:FF6B6B&height=3&width=1000" width="100%"/>
 
 ## 🧰 Tech Arsenal
 
@@ -81,7 +86,7 @@ focus: AI-integrated full-stack products, from data model to deployed UI
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:A855F7,100:FF6B6B&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,50:A855F7,100:3B82F6&height=3&width=1000" width="100%"/>
 
 ## 🌟 Featured Projects
 
@@ -142,7 +147,7 @@ focus: AI-integrated full-stack products, from data model to deployed UI
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,50:A855F7,100:3B82F6&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:A855F7,100:FF6B6B&height=3&width=1000" width="100%"/>
 
 ## 📜 Certifications
 
@@ -161,7 +166,7 @@ focus: AI-integrated full-stack products, from data model to deployed UI
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:A855F7,100:FF6B6B&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,50:A855F7,100:3B82F6&height=3&width=1000" width="100%"/>
 
 ## 📊 GitHub Analytics
 
