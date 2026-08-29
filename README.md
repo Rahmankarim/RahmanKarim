@@ -11,7 +11,7 @@ const rahman = {
   role: "Software Developer",
   stack: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js"],
   exploring: ["AI", "LLMs", "Machine Learning"],
-  location: "Pakistan 🇵🇰"
+  location: "Pakistan 🇵🇰."
 };
 ```
 
